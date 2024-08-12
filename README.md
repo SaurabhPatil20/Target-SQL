@@ -11,3 +11,5 @@ By analyzing this extensive dataset, it becomes possible to gain valuable insigh
 Target's operations in Brazil. The information can shed light on various aspects of the 
 business, such as order processing, pricing strategies, payment and shipping efficiency, 
 customer demographics, product characteristics, and customer satisfaction levels.
+
+Data : https://drive.google.com/drive/folders/1TGEc66YKbD443nslRi1bWgVd238gJCnb?usp=drive_link
